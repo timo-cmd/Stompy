@@ -1,6 +1,16 @@
 # Stompy
+A little platformer game. wip. extensible.
+
+> Note: Artwork by Luiz Zuno. Code and everything else by Timo-cmd
 
 
-<img src="https://raw.githubusercontent.com/timo-cmd/Stompy/master/assets/Pink_Monster_Idle_4-1.png.png" align="center"></img>
+### Screenshots:
+
+<img src="https://raw.githubusercontent.com/timo-cmd/Stompy/master/assets/screencaststompy.png" align="center"></img>
+
+<br>
+</br>
+
+<img src="https://raw.githubusercontent.com/timo-cmd/Stompy/master/assets/stomp2.png" align="center"></img>
+
 <br></br>
-A little platformer game. wip
